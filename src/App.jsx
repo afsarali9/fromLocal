@@ -1,4 +1,5 @@
 import './App.css'
+import MyAge from './components/MyAge'
 import MyName from './components/MyName'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <MyName />
+      <MyAge />
     </>
   )
 }
