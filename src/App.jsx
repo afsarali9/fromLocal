@@ -3,7 +3,6 @@ import MyAge from './components/MyAge'
 import MyName from './components/MyName'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
